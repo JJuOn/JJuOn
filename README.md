@@ -1,9 +1,10 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=JJuOn">
-
+![API](https://github-readme-stats.vercel.app/api?username=JJuOn)
+![TOP-LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=JJuOn&layout=compact&hide=jupyter%20notebook)
+  
+  
 #### Hi there 😁
 ##### I'm Juwon Seo
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://jjuon.tistory.com)](https://jjuon.tistory.com/) 
-
 ##### I'm conducting 1 commit per 1 day since Jun 07th.
 ### I'm Interested in...
 - Computer Vision
