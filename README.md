@@ -14,7 +14,7 @@
 ### Profile  
 - (17.03 ~ ) 경희대학교 컴퓨터공학과  
 - (19.01 ~ 19.12) 경희대학교 컴퓨터공학과 학술동아리 D.COM([@DCOM_KHU](https://github.com/dcom-khu)) 동아리장  
-- (21.04 ~ ) 교육봉사단 AIoT 운영  
+- (21.04 ~ 21.12) 교육봉사단 AIoT([@Team-AIoT](https://github.com/TeamAIoT)) 운영  
 <!--
 **JJuOn/JJuOn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
