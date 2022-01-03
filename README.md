@@ -5,7 +5,6 @@
 #### Hi there 😁
 ##### I'm Juwon Seo
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://jjuon.tistory.com)](https://jjuon.tistory.com/) 
-##### I'm conducting 1 commit per 1 day since Jun 07th.
 ### I'm Interested in...
 - Computer Vision
 - Web Backend
