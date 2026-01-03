@@ -10,7 +10,7 @@
 - Diffusion Inversion & Personalization
 
 ### 🎓 Education
-- **M.S. in Artificial Intelligence**, Kyung Hee University (Mar. 2023 - Feb. 2025)
+- **M.S. in Artificial Intelligence**, Kyung Hee University (Mar. 2023 - Feb. 2025) (Advisor: Prof. Gyeong-Moon Park)
 - **B.S. in Computer Science and Engineering**, Kyung Hee University (Mar. 2017 - Feb. 2023)
 
 ### 📄 Publications (Selected)
