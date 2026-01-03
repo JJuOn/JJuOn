@@ -1,33 +1,20 @@
+## 👨‍💻 Juwon Seo
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=JJuOn&fontSize=90&animation=blinking)
-![API](https://github-readme-stats.vercel.app/api?username=JJuOn)
-![TOP-LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=JJuOn&layout=compact&hide=jupyter%20notebook)
-  
-  
-#### Hi there 😁
-##### I'm Juwon Seo
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://jjuon.tistory.com)](https://jjuon.tistory.com/) 
-### I'm Interested in...
-- Computer Vision
-- Web Backend
-- Algorithm  
+### 🏢 Working Experience
+- **AI Engineer @ Samsung Research** (Aug. 2025 – Present)
 
-### Profile  
-- (17.03 ~ ) 경희대학교 컴퓨터공학과  
-- (19.01 ~ 19.12) 경희대학교 컴퓨터공학과 학술동아리 D.COM([@DCOM_KHU](https://github.com/dcom-khu)) 동아리장  
-- (21.04 ~ 21.12) 교육봉사단 AIoT([@Team-AIoT](https://github.com/TeamAIoT)) 운영  
-- (22.01 ~ ) 경희대학교 AGI Lab([@AGILab](https://agi.khu.ac.kr)) 학부연구생
-<!--
-**JJuOn/JJuOn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔬 Research Interests
+- Generative Models (GANs, Diffusion Models, LLMs)
+- Few-Shot & Continual Learning
+- Machine Unlearning & Privacy Protection in Generative Models
+- Diffusion Inversion & Personalization
 
-Here are some ideas to get you started:
+### 🎓 Education
+- **M.S. in Artificial Intelligence**, Kyung Hee University (Mar. 2023 - Feb. 2025)
+- **B.S. in Computer Science and Engineering**, Kyung Hee University (Mar. 2017 - Feb. 2023)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📄 Publications (Selected)
+- **NeurIPS 2025** — *Perturb a Model, Not an Image: Towards Robust Privacy Protection via Anti-Personalized Diffusion Models*
+- **ICCV 2025** — *ConceptSplit: Decoupled Multi-Concept Personalization of Diffusion Models*
+- **CVPR 2024** — *Generative Unlearning for Any Identity*
+- **ICCV 2023** — *LFS-GAN: Lifelong Few-Shot Image Generation*
